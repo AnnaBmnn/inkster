@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "name" : "John Doe",
+        "styles_id" : ["1", "3", "4", "7"],
+        "description": "",
+        "social_links": [
+            {
+                "name": "instagram",
+                "link": "https://instagram.com/username"
+            }
+        ],
+        "photos": [],
+        "min_price": "",
+        "localization" : {
+            "main_shop_id" : "1",
+            "guest": [
+                {
+                    "shop_id": "",
+                    "start_date": "",
+                    "end_date": ""
+                }
+            ]
+        },
+        "faq" : [{
+            "question": "Lalalalala ?",
+            "answer": "Lorem ipsum dolor sit amet blablablablala hnjkadzhfi hfizkehk hfoalqzhfo hiaoqrhioa"
+        },
+        {
+            "question": "Lalalalala ?",
+            "answer": "Lorem ipsum dolor sit amet blablablablala hnjkadzhfi hfizkehk hfoalqzhfo hiaoqrhioa"
+        },
+        {
+            "question": "Lalalalala ?",
+            "answer": "Lorem ipsum dolor sit amet blablablablala hnjkadzhfi hfizkehk hfoalqzhfo hiaoqrhioa"
+        }]
+        
+    }
+]
