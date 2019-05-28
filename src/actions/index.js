@@ -1,4 +1,10 @@
-let nextTodoId = 0;
+/*
+  ACTIONS : send data from application to store
+  ACTIONS CREATOR : create the actions (here is the definition of the action)
+  We send action from application to store through the dispatch()
+*/
+
+let nextTodoId = 1;
 export const addTodo = text => ({
   type: "ADD_TODO",
   id: nextTodoId++,
