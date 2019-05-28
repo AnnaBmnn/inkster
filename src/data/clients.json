@@ -1,0 +1,11 @@
+[
+    {
+        "id": "1",
+        "name" : "James Doe",
+        "email": "anemail@mail.com",
+        "profile_pic": "",
+        "favorite_artists": [],
+        "briefs": [],
+        "appointments": []
+    }
+]

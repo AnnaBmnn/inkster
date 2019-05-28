@@ -1,0 +1,9 @@
+[
+    {
+        "id": "1",
+        "name" : "Tattoo Studio 1",
+        "artists": ["1"],
+        "address": "",
+        "opening_hours": ""
+    }
+]
